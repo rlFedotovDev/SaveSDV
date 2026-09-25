@@ -1,0 +1,4 @@
+PyQt6>=6.7
+# Alternative desktop UI:
+PyQt5>=5.15
+# Tkinter is normally bundled with CPython on Windows/macOS.
